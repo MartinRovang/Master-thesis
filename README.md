@@ -37,7 +37,7 @@
   <p align="center">
     WMH segmentation using FLAIR and/or T1 on MR volumes
     <br />
-    <a href="https://github.com/CRAI-OUS/WMH-Segmentation/blob/main/main.pdf"><strong>Master thesis »</strong></a>
+    <a href="https://github.com/MartinRovang/Master-thesis/blob/main/main.pdf"><strong>Master thesis »</strong></a>
     <br />
   </p>
 </p>
